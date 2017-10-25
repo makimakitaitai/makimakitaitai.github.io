@@ -2,7 +2,7 @@
 
 プログラム関連で学んだことや開発しているものについて書く予定です。  
 下記のURLで参照できます。  
-[ブログ](http://makimaki.github.io/)
+[ブログ](http://makimakitaitai.github.io/)
 
 ## ページ項目[考察中]
 
